@@ -1,0 +1,17 @@
+Set B
+
+Q1. Basic - 10 Marks
+Create a PHP program containing an array of 10 numbers. 
+The program should:-
+• Display all the numbers using a loop.
+• Find and display the largest number.
+• Find and display the smallest number.
+• Calculate and display the sum and average of the numbers.
+
+Q2. Scenario Based - 10 Marks
+You are developing a simple shopping cart for an online store.
+Create a PHP program containing an associative array of product names and their prices. 
+Display all products in an HTML table and calculate:-
+• Total price of all products.
+• 10% discount if the total is above Rs. 2,000.
+• Final payable amount.
